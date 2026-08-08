@@ -105,7 +105,7 @@ defmodule PlaidEx.MixProject do
         "Plaid Docs" => "https://plaid.com/docs/",
         "Plaid API Reference" => "https://plaid.com/docs/api/"
       },
-      files: ~w(lib priv config mix.exs README.md CHANGELOG.md LICENSE .formatter.exs)
+      files: ~w(lib config mix.exs README.md CHANGELOG.md LICENSE .formatter.exs)
     ]
   end
 
